@@ -96,7 +96,7 @@
         "totalKwh": 1557684,
         "avgDollarPerKwh": 0.24,
         "totalDemand": 202498,
-        "totalDemandCost": 51514
+        "totalDemandCost": 13.6
       },
       {
         "id": "1e1db0bb-55cf-48af-83f1-2eab813c8e24",
@@ -105,7 +105,7 @@
         "totalKwh": 1777076,
         "avgDollarPerKwh": 0.26,
         "totalDemand": 300325,
-        "totalDemandCost": 79420
+        "totalDemandCost": 16.9
       },
       {
         "id": "702d8195-1b59-47b3-9b77-0b1ad52946a2",
@@ -114,16 +114,16 @@
         "totalKwh": 1575513,
         "avgDollarPerKwh": 0.29,
         "totalDemand": 222147,
-        "totalDemandCost": 64852
+        "totalDemandCost": 14.2
       },
       {
         "id": "52b99f93-4f26-42ca-abc3-69b3c2855b66",
         "year": 2024,
         "totalSpend": 227544,
         "totalKwh": 1011194,
-        "avgDollarPerKwh": 0.3,
+        "avgDollarPerKwh": 0.30,
         "totalDemand": 141567,
-        "totalDemandCost": 31856
+        "totalDemandCost": 13.9
       }
     ],
     "actualKWhPriceTable": {
@@ -242,7 +242,7 @@
         "month": "Jan",
         "consumption": 25,
         "highestPeak": 32,
-        "highestPeakDate": "Wed Sep 18 2024 16:16:54 GMT-0300",
+        "highestPeakDate": "Wed Jun 18 2024 16:16:54 GMT-0300",
         "highestPeakCost": 56,
         "costPercentage": 25
       },
@@ -250,7 +250,7 @@
         "month": "Feb",
         "consumption": 55,
         "highestPeak": 32,
-        "highestPeakDate": "Wed Sep 18 2024 16:16:54 GMT-0300",
+        "highestPeakDate": "Wed Jun 11 2024 16:16:54 GMT-0300",
         "highestPeakCost": 56,
         "costPercentage": 25
       },
@@ -258,7 +258,7 @@
         "month": "Mar",
         "consumption": 28,
         "highestPeak": 32,
-        "highestPeakDate": "Wed Sep 18 2024 16:16:54 GMT-0300",
+        "highestPeakDate": "Wed Sep 26 2024 16:16:54 GMT-0300",
         "highestPeakCost": 56,
         "costPercentage": 25
       },
@@ -266,7 +266,7 @@
         "month": "Apr",
         "consumption": 66,
         "highestPeak": 32,
-        "highestPeakDate": "Wed Sep 18 2024 16:16:54 GMT-0300",
+        "highestPeakDate": "Thu Sep 18 2024 16:16:54 GMT-0300",
         "highestPeakCost": 56,
         "costPercentage": 25
       },
