@@ -215,31 +215,31 @@
       { "frequency": 0, "hour": 24 }
     ],
     "intervalEnergyUsageHistogram": [
-      { "frequency": 3000, "kwh": 28 },
-      { "frequency": 2000, "kwh": 35 },
-      { "frequency": 1000, "kwh": 41 },
-      { "frequency": 2841, "kwh": 2343 },
-      { "frequency": 1036, "kwh": 342 },
-      { "frequency": 4802, "kwh": 123 },
-      { "frequency": 4802, "kwh": 22 },
-      { "frequency": 320, "kwh": 2 },
-      { "frequency": 480, "kwh": 234 },
+      { "frequency": 1333, "kwh": 33 },
+      { "frequency": 1202, "kwh": 35 },
+      { "frequency": 1450, "kwh": 41 },
+      { "frequency": 2841, "kwh": 83 },
+      { "frequency": 1036, "kwh": 92 },
+      { "frequency": 1482, "kwh": 103 },
+      { "frequency": 1492, "kwh": 122 },
+      { "frequency": 1320, "kwh": 132 },
+      { "frequency": 1480, "kwh": 234 },
       { "frequency": 4041, "kwh": 65 },
-      { "frequency": 4041, "kwh": 932 },
+      { "frequency": 4091, "kwh": 99 },
       { "frequency": 3561, "kwh": 23 },
       { "frequency": 4041, "kwh": 34 },
       { "frequency": 403, "kwh": 67 },
       { "frequency": 400, "kwh": 123 },
       { "frequency": 3166, "kwh": 194 },
-      { "frequency": 4130, "kwh": 183 },
-      { "frequency": 4130, "kwh": 201 },
-      { "frequency": 3166, "kwh": 286 },
-      { "frequency": 316, "kwh": 351 },
-      { "frequency": 112, "kwh": 162 },
-      { "frequency": 3000, "kwh": 97 },
-      { "frequency": 4802, "kwh": 263 },
-      { "frequency": 3000, "kwh": 152 },
-      { "frequency": 3000, "kwh": 77 }
+      { "frequency": 5130, "kwh": 183 },
+      { "frequency": 6130, "kwh": 201 },
+      { "frequency": 166, "kwh": 286 },
+      { "frequency": 6, "kwh": 351 },
+      { "frequency": 112, "kwh": 262 },
+      { "frequency": 5, "kwh": 397 },
+      { "frequency": 15, "kwh": 363 },
+      { "frequency": 25, "kwh": 355 },
+      { "frequency": 30, "kwh": 333 }
     ],
     "peakMinMax": [
       {
@@ -343,126 +343,126 @@
       {
         "id": "701e4fef-5b7c-447d-adad-c56c141e8928",
         "billStartDate": "2024-06-19",
-        "billEndDate": "2024-10-17",
+        "billEndDate": "2024-07-17",
         "anomalyPeak": 706.62,
         "newPeak": 646.27,
-        "projectedSavings": 600.0
+        "projectedSavings": 4623.0
       },
       {
         "id": "cd7b650c-912d-48df-8e6f-36bd3139a2b4",
-        "billStartDate": "2024-06-19",
-        "billEndDate": "2024-10-17",
-        "anomalyPeak": 706.62,
+        "billStartDate": "2024-05-19",
+        "billEndDate": "2024-06-17",
+        "anomalyPeak": 766.62,
         "newPeak": 646.27,
-        "projectedSavings": 600.0
+        "projectedSavings": 5100.0
       },
       {
         "id": "02aae242-1b91-4ee4-bff7-1c80671d5d03",
-        "billStartDate": "2024-06-19",
-        "billEndDate": "2024-10-17",
-        "anomalyPeak": 706.62,
+        "billStartDate": "2024-04-19",
+        "billEndDate": "2024-05-17",
+        "anomalyPeak": 796.69,
         "newPeak": 646.27,
-        "projectedSavings": 600.0
+        "projectedSavings": 5640.0
       },
       {
         "id": "956aa321-ecf4-4a87-8151-c67d6067a71f",
-        "billStartDate": "2024-06-19",
-        "billEndDate": "2024-10-17",
-        "anomalyPeak": 706.62,
+        "billStartDate": "2024-03-19",
+        "billEndDate": "2024-04-17",
+        "anomalyPeak": 656.62,
         "newPeak": 646.27,
-        "projectedSavings": 600.0
+        "projectedSavings": 690.0
       },
       {
         "id": "4b340f0b-50e4-41d6-a304-997819eed97f",
-        "billStartDate": "2024-06-19",
-        "billEndDate": "2024-10-17",
-        "anomalyPeak": 706.62,
+        "billStartDate": "2024-02-19",
+        "billEndDate": "2024-03-17",
+        "anomalyPeak": 700.62,
         "newPeak": 646.27,
-        "projectedSavings": 600.0
+        "projectedSavings": 1490.0
       },
       {
         "id": "97502692-ea38-4d86-8176-44bde6468722",
-        "billStartDate": "2024-06-19",
-        "billEndDate": "2024-10-17",
-        "anomalyPeak": 706.62,
+        "billStartDate": "2024-01-19",
+        "billEndDate": "2024-02-17",
+        "anomalyPeak": 699.62,
         "newPeak": 646.27,
-        "projectedSavings": 600.0
+        "projectedSavings": 1130.0
       }
     ],
     "peakDemandChargeTable": {
       "firstPart": [
         {
           "id": "c4cfa32e-e211-4999-b9d4-e78cb5e2b2cb",
-          "billEndDate": "2024-11-09",
-          "billStartDate": "2024-11-29",
-          "intervalTime": "2023-08-23 07:45:00",
-          "kW": 680
+          "billEndDate": "2024-09-28",
+          "billStartDate": "2024-08-29",
+          "intervalTime": "2023-09-20 07:45:00",
+          "kW": 632
         },
         {
           "id": "f1059864-7748-45ed-8c16-36d38bdfcfe3",
-          "billEndDate": "2024-11-09",
-          "billStartDate": "2024-11-29",
-          "intervalTime": "2023-08-23 07:45:00",
+          "billEndDate": "2024-08-28",
+          "billStartDate": "2024-07-29",
+          "intervalTime": "2023-08-23 08:15:00",
           "kW": 672
         },
         {
           "id": "8096bbf2-6d8f-4976-b1ef-240771ad9151",
-          "billEndDate": "2024-11-09",
-          "billStartDate": "2024-11-29",
-          "intervalTime": "2023-08-23 07:45:00",
+          "billEndDate": "2024-07-28",
+          "billStartDate": "2024-06-29",
+          "intervalTime": "2023-07-21 08:00:00",
           "kW": 660
         },
         {
           "id": "6218245f-02be-405f-9e28-8e31f8f013d5",
-          "billEndDate": "2024-11-09",
-          "billStartDate": "2024-11-29",
-          "intervalTime": "2023-08-23 07:45:00",
-          "kW": 600
+          "billEndDate": "2024-06-28",
+          "billStartDate": "2024-05-29",
+          "intervalTime": "2023-06-06 07:45:00",
+          "kW": 633
         },
         {
           "id": "d3a4d36b-bc56-44cc-9ff4-4603c0ce1709",
-          "billEndDate": "2024-11-09",
-          "billStartDate": "2024-11-29",
-          "intervalTime": "2023-08-23 07:45:00",
+          "billEndDate": "2024-05-28",
+          "billStartDate": "2024-04-29",
+          "intervalTime": "2023-05-23 07:45:00",
           "kW": 643
         },
         {
           "id": "2760ae47-3383-42eb-bfc7-5e72657aa0d5",
-          "billEndDate": "2024-11-09",
-          "billStartDate": "2024-11-29",
-          "intervalTime": "2023-08-23 07:45:00",
-          "kW": 600
+          "billEndDate": "2024-04-28",
+          "billStartDate": "2024-03-29",
+          "intervalTime": "2023-04-01 08:45:00",
+          "kW": 633
         }
       ],
       "secondPart": [
         {
           "id": "7bcd097e-bc1f-4dfd-a256-92c0f563cfba",
-          "demandCost": 320,
+          "demandCost": 3320,
           "percentage": 17
         },
         {
           "id": "2e35c101-bf7a-4cb4-a005-4b48b9d5b6a7",
-          "demandCost": 320,
-          "percentage": 17
+          "demandCost": 3960,
+          "percentage": 18
         },
         {
           "id": "58387c9d-f832-4ef5-bb7f-0ff1690f7389",
-          "demandCost": 320,
-          "percentage": 17
+          "demandCost": 3801,
+          "percentage": 18
         },
         {
           "id": "80f35571-e105-4b39-b6b5-fb4e5fa364a0",
-          "demandCost": 320,
+          "demandCost": 3318,
           "percentage": 17
         },
         {
           "id": "26791616-8245-4681-b865-5a505fb3ab6f",
-          "demandCost": 320,
+          "demandCost": 3320,
           "percentage": 17
         },
         {
           "id": "f07fe019-5ee6-481f-899f-8fb601c47f47",
-          "demandCost": 320,
+          "demandCost": 3310,
           "percentage": 17
         }
       ]
