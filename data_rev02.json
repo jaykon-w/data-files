@@ -74,20 +74,23 @@
       { "month": "Nov", "2023": 153677, "2022": 114938 },
       { "month": "Dec", "2023": 151218, "2022": 134543 }
     ],
-    "trendingEUI": [
-      { "date": "Jan", "usage": 0.65 },
-      { "date": "Feb", "usage": 0.71 },
-      { "date": "Mar", "usage": 0.69 },
-      { "date": "Apr", "usage": 0.87 },
-      { "date": "May", "usage": 0.92 },
-      { "date": "Jun", "usage": 1.11 },
-      { "date": "Jul", "usage": 1.27 },
-      { "date": "Aug", "usage": 1.30 },
-      { "date": "Sep", "usage": 1.07 },
-      { "date": "Oct", "usage": 0.91 },
-      { "date": "Nov", "usage": 0.82 },
-      { "date": "Dec", "usage": 0.77 }
-    ],
+    "trendingEUI": {
+      "data": [
+        { "date": "Jan", "usage": 0.65 },
+        { "date": "Feb", "usage": 0.71 },
+        { "date": "Mar", "usage": 0.69 },
+        { "date": "Apr", "usage": 0.87 },
+        { "date": "May", "usage": 0.92 },
+        { "date": "Jun", "usage": 1.11 },
+        { "date": "Jul", "usage": 1.27 },
+        { "date": "Aug", "usage": 1.30 },
+        { "date": "Sep", "usage": 1.07 },
+        { "date": "Oct", "usage": 0.91 },
+        { "date": "Nov", "usage": 0.82 },
+        { "date": "Dec", "usage": 0.77 }
+      ],
+      "percentage": 40
+    },
     "annualAnalysisTable": [
       {
         "id": "73c9f6b6-0720-44c7-b68b-54d187b640d7",
@@ -214,33 +217,36 @@
       { "frequency": 0, "hour": 24 },
       { "frequency": 0, "hour": 24 }
     ],
-    "intervalEnergyUsageHistogram": [
-      { "frequency": 1333, "kwh": 33 },
-      { "frequency": 1202, "kwh": 35 },
-      { "frequency": 1450, "kwh": 41 },
-      { "frequency": 2841, "kwh": 83 },
-      { "frequency": 1036, "kwh": 92 },
-      { "frequency": 1482, "kwh": 103 },
-      { "frequency": 1492, "kwh": 122 },
-      { "frequency": 1320, "kwh": 132 },
-      { "frequency": 1480, "kwh": 234 },
-      { "frequency": 4041, "kwh": 65 },
-      { "frequency": 4091, "kwh": 99 },
-      { "frequency": 3561, "kwh": 23 },
-      { "frequency": 4041, "kwh": 34 },
-      { "frequency": 403, "kwh": 67 },
-      { "frequency": 400, "kwh": 123 },
-      { "frequency": 3166, "kwh": 194 },
-      { "frequency": 5130, "kwh": 183 },
-      { "frequency": 6130, "kwh": 201 },
-      { "frequency": 166, "kwh": 286 },
-      { "frequency": 6, "kwh": 351 },
-      { "frequency": 112, "kwh": 262 },
-      { "frequency": 5, "kwh": 397 },
-      { "frequency": 15, "kwh": 363 },
-      { "frequency": 25, "kwh": 355 },
-      { "frequency": 30, "kwh": 333 }
-    ],
+    "intervalEnergyUsageHistogram": {
+      "data": [
+        { "frequency": 1333, "kwh": 33 },
+        { "frequency": 1202, "kwh": 35 },
+        { "frequency": 1450, "kwh": 41 },
+        { "frequency": 2841, "kwh": 83 },
+        { "frequency": 1036, "kwh": 92 },
+        { "frequency": 1482, "kwh": 103 },
+        { "frequency": 1492, "kwh": 122 },
+        { "frequency": 1320, "kwh": 132 },
+        { "frequency": 1480, "kwh": 234 },
+        { "frequency": 4041, "kwh": 65 },
+        { "frequency": 4091, "kwh": 99 },
+        { "frequency": 3561, "kwh": 23 },
+        { "frequency": 4041, "kwh": 34 },
+        { "frequency": 403, "kwh": 67 },
+        { "frequency": 400, "kwh": 123 },
+        { "frequency": 3166, "kwh": 194 },
+        { "frequency": 5130, "kwh": 183 },
+        { "frequency": 6130, "kwh": 201 },
+        { "frequency": 166, "kwh": 286 },
+        { "frequency": 6, "kwh": 351 },
+        { "frequency": 112, "kwh": 262 },
+        { "frequency": 5, "kwh": 397 },
+        { "frequency": 15, "kwh": 363 },
+        { "frequency": 25, "kwh": 355 },
+        { "frequency": 30, "kwh": 333 }
+      ],
+      "percentage": 32
+    },
     "peakMinMax": [
       {
         "month": "Jan",
@@ -339,56 +345,60 @@
         "costPercentage": 25
       }
     ],
-    "costComparisonTable": [
-      {
-        "id": "701e4fef-5b7c-447d-adad-c56c141e8928",
-        "billStartDate": "2024-06-19",
-        "billEndDate": "2024-07-17",
-        "anomalyPeak": 706.62,
-        "newPeak": 646.27,
-        "projectedSavings": 4623.0
-      },
-      {
-        "id": "cd7b650c-912d-48df-8e6f-36bd3139a2b4",
-        "billStartDate": "2024-05-19",
-        "billEndDate": "2024-06-17",
-        "anomalyPeak": 766.62,
-        "newPeak": 646.27,
-        "projectedSavings": 5100.0
-      },
-      {
-        "id": "02aae242-1b91-4ee4-bff7-1c80671d5d03",
-        "billStartDate": "2024-04-19",
-        "billEndDate": "2024-05-17",
-        "anomalyPeak": 796.69,
-        "newPeak": 646.27,
-        "projectedSavings": 5640.0
-      },
-      {
-        "id": "956aa321-ecf4-4a87-8151-c67d6067a71f",
-        "billStartDate": "2024-03-19",
-        "billEndDate": "2024-04-17",
-        "anomalyPeak": 656.62,
-        "newPeak": 646.27,
-        "projectedSavings": 690.0
-      },
-      {
-        "id": "4b340f0b-50e4-41d6-a304-997819eed97f",
-        "billStartDate": "2024-02-19",
-        "billEndDate": "2024-03-17",
-        "anomalyPeak": 700.62,
-        "newPeak": 646.27,
-        "projectedSavings": 1490.0
-      },
-      {
-        "id": "97502692-ea38-4d86-8176-44bde6468722",
-        "billStartDate": "2024-01-19",
-        "billEndDate": "2024-02-17",
-        "anomalyPeak": 699.62,
-        "newPeak": 646.27,
-        "projectedSavings": 1130.0
-      }
-    ],
+    "costComparisonTable": {
+      "data": [
+        {
+          "id": "701e4fef-5b7c-447d-adad-c56c141e8928",
+          "billStartDate": "2024-06-19",
+          "billEndDate": "2024-07-17",
+          "anomalyPeak": 706.62,
+          "newPeak": 646.27,
+          "projectedSavings": 4623.0
+        },
+        {
+          "id": "cd7b650c-912d-48df-8e6f-36bd3139a2b4",
+          "billStartDate": "2024-05-19",
+          "billEndDate": "2024-06-17",
+          "anomalyPeak": 766.62,
+          "newPeak": 646.27,
+          "projectedSavings": 5100.0
+        },
+        {
+          "id": "02aae242-1b91-4ee4-bff7-1c80671d5d03",
+          "billStartDate": "2024-04-19",
+          "billEndDate": "2024-05-17",
+          "anomalyPeak": 796.69,
+          "newPeak": 646.27,
+          "projectedSavings": 5640.0
+        },
+        {
+          "id": "956aa321-ecf4-4a87-8151-c67d6067a71f",
+          "billStartDate": "2024-03-19",
+          "billEndDate": "2024-04-17",
+          "anomalyPeak": 656.62,
+          "newPeak": 646.27,
+          "projectedSavings": 690.0
+        },
+        {
+          "id": "4b340f0b-50e4-41d6-a304-997819eed97f",
+          "billStartDate": "2024-02-19",
+          "billEndDate": "2024-03-17",
+          "anomalyPeak": 700.62,
+          "newPeak": 646.27,
+          "projectedSavings": 1490.0
+        },
+        {
+          "id": "97502692-ea38-4d86-8176-44bde6468722",
+          "billStartDate": "2024-01-19",
+          "billEndDate": "2024-02-17",
+          "anomalyPeak": 699.62,
+          "newPeak": 646.27,
+          "projectedSavings": 1130.0
+        }
+      ],
+      "avgSavePerMonth": 2271.75,
+      "avgSaveLastYear": 29532.73
+    },
     "peakDemandChargeTable": {
       "firstPart": [
         {
