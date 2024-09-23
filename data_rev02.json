@@ -75,18 +75,18 @@
       { "month": "Dec", "2023": 151218, "2022": 134543 }
     ],
     "trendingEUI": [
-      { "date": "Jan", "usage": 0.76 },
-      { "date": "Feb", "usage": 0.74 },
+      { "date": "Jan", "usage": 0.65 },
+      { "date": "Feb", "usage": 0.71 },
       { "date": "Mar", "usage": 0.69 },
-      { "date": "Apr", "usage": 0.77 },
-      { "date": "May", "usage": 0.72 },
-      { "date": "Jun", "usage": 0.71 },
-      { "date": "Jul", "usage": 0.74 },
-      { "date": "Aug", "usage": 0.68 },
-      { "date": "Sep", "usage": 0.67 },
-      { "date": "Oct", "usage": 0.71 },
-      { "date": "Nov", "usage": 0.71 },
-      { "date": "Dec", "usage": 0.87 }
+      { "date": "Apr", "usage": 0.87 },
+      { "date": "May", "usage": 0.92 },
+      { "date": "Jun", "usage": 1.11 },
+      { "date": "Jul", "usage": 1.27 },
+      { "date": "Aug", "usage": 1.30 },
+      { "date": "Sep", "usage": 1.07 },
+      { "date": "Oct", "usage": 0.91 },
+      { "date": "Nov", "usage": 0.82 },
+      { "date": "Dec", "usage": 0.77 }
     ],
     "annualAnalysisTable": [
       {
@@ -215,9 +215,9 @@
       { "frequency": 0, "hour": 24 }
     ],
     "intervalEnergyUsageHistogram": [
-      { "frequency": 3000, "kwh": 12 },
-      { "frequency": 2000, "kwh": 234 },
-      { "frequency": 1000, "kwh": 123 },
+      { "frequency": 3000, "kwh": 28 },
+      { "frequency": 2000, "kwh": 35 },
+      { "frequency": 1000, "kwh": 41 },
       { "frequency": 2841, "kwh": 2343 },
       { "frequency": 1036, "kwh": 342 },
       { "frequency": 4802, "kwh": 123 },
@@ -244,7 +244,7 @@
     "peakMinMax": [
       {
         "month": "Jan",
-        "consumption": 25,
+        "consumption": 33,
         "highestPeak": 32,
         "highestPeakDate": "Wed Jun 18 2024 16:16:54 GMT-0300",
         "highestPeakCost": 56,
@@ -252,7 +252,7 @@
       },
       {
         "month": "Feb",
-        "consumption": 55,
+        "consumption": 34,
         "highestPeak": 32,
         "highestPeakDate": "Wed Jun 11 2024 16:16:54 GMT-0300",
         "highestPeakCost": 56,
@@ -260,7 +260,7 @@
       },
       {
         "month": "Mar",
-        "consumption": 28,
+        "consumption": 31,
         "highestPeak": 32,
         "highestPeakDate": "Wed Sep 26 2024 16:16:54 GMT-0300",
         "highestPeakCost": 56,
@@ -276,7 +276,7 @@
       },
       {
         "month": "May",
-        "consumption": 44,
+        "consumption": 74,
         "highestPeak": 32,
         "highestPeakDate": "Wed Sep 18 2024 16:16:54 GMT-0300",
         "highestPeakCost": 56,
@@ -284,7 +284,7 @@
       },
       {
         "month": "Jun",
-        "consumption": 69,
+        "consumption": 89,
         "highestPeak": 32,
         "highestPeakDate": "Wed Sep 18 2024 16:16:54 GMT-0300",
         "highestPeakCost": 56,
@@ -292,7 +292,7 @@
       },
       {
         "month": "Jul",
-        "consumption": 12,
+        "consumption": 92,
         "highestPeak": 32,
         "highestPeakDate": "Wed Sep 18 2024 16:16:54 GMT-0300",
         "highestPeakCost": 56,
@@ -300,7 +300,7 @@
       },
       {
         "month": "Aug",
-        "consumption": 24,
+        "consumption": 94,
         "highestPeak": 32,
         "highestPeakDate": "Wed Sep 18 2024 16:16:54 GMT-0300",
         "highestPeakCost": 56,
@@ -308,7 +308,7 @@
       },
       {
         "month": "Sep",
-        "consumption": 68,
+        "consumption": 78,
         "highestPeak": 32,
         "highestPeakDate": "Wed Sep 18 2024 16:16:54 GMT-0300",
         "highestPeakCost": 56,
@@ -324,7 +324,7 @@
       },
       {
         "month": "Nov",
-        "consumption": 33,
+        "consumption": 63,
         "highestPeak": 32,
         "highestPeakDate": "Wed Sep 18 2024 16:16:54 GMT-0300",
         "highestPeakCost": 56,
@@ -332,7 +332,7 @@
       },
       {
         "month": "Dec",
-        "consumption": 55,
+        "consumption": 45,
         "highestPeak": 32,
         "highestPeakDate": "Wed Sep 18 2024 16:16:54 GMT-0300",
         "highestPeakCost": 56,
