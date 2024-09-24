@@ -32,7 +32,7 @@
         "formatType": "power"
       }
     ],
-    "actualKWhPrice": [
+    "averageKWhPrice": [
       { "month": "January", "previousYear": 0.22, "currentYear": 0.21 },
       { "month": "February", "previousYear": 0.21, "currentYear": 0.21 },
       { "month": "March", "previousYear": 0.23, "currentYear": 0.21 },
@@ -133,7 +133,7 @@
         "totalDemandCost": 13.9
       }
     ],
-    "actualKWhPriceTable": {
+    "averageKWhPriceTable": {
       "firstPart": [
         { "month": "January", "kwhPrice": 0.38 },
         { "month": "February", "kwhPrice": 0.36 },
@@ -217,7 +217,7 @@
       { "frequency": 0, "hour": 24 },
       { "frequency": 0, "hour": 24 }
     ],
-    "intervalEnergyUsageHistogram": {
+    "intervalEnergyUsageMostRecentBillingPeriod": {
       "data": [
         { "frequency": 1333, "kwh": 33 },
         { "frequency": 1202, "kwh": 35 },
