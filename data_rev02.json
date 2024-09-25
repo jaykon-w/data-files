@@ -393,7 +393,7 @@
         "costPercentage": 25
       }
     ],
-    "costComparisonTable": {
+    "peakDemandPotentialSavingsTable": {
       "data": [
         {
           "id": "701e4fef-5b7c-447d-adad-c56c141e8928",
