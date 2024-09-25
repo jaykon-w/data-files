@@ -772,103 +772,75 @@
     "mostEfficientNightLastYearTable": [
       {
         "id": "1",
-        "date": "2019-01-01",
-        "usage": 140.0,
-        "meanHourlyUsage": 20.0,
-        "weekDay": "Monday"
-      },
-      {
-        "id": "2",
-        "date": "2019-01-02",
-        "usage": 180.0,
-        "meanHourlyUsage": 40.0,
-        "weekDay": "Tuesday"
-      },
-      {
-        "id": "3",
-        "date": "2019-01-03",
-        "usage": 240.0,
-        "meanHourlyUsage": 60.0,
-        "weekDay": "Wednesday"
-      },
-      {
-        "id": "4",
-        "date": "2019-01-04",
-        "usage": 280.0,
-        "meanHourlyUsage": 70.0,
-        "weekDay": "Thursday"
-      },
-      {
-        "id": "5",
-        "date": "2019-01-05",
-        "usage": 160.0,
-        "meanHourlyUsage": 40.0,
-        "weekDay": "Friday"
-      },
-      {
-        "id": "6",
-        "date": "2019-01-06",
-        "usage": 60.0,
-        "meanHourlyUsage": 15.0,
+        "date": "2022-06-11",
+        "usage": 186.84,
+        "meanHourlyUsage": 4.55,
         "weekDay": "Saturday"
       },
       {
-        "id": "7",
-        "date": "2019-01-07",
-        "usage": 40.0,
-        "meanHourlyUsage": 10.0,
+        "id": "2",
+        "date": "2022-09-30",
+        "usage": 208.08,
+        "meanHourlyUsage": 5.07,
+        "weekDay": "Friday"
+      },
+      {
+        "id": "3",
+        "date": "2022-11-11",
+        "usage": 214.20,
+        "meanHourlyUsage": 5.22,
+        "weekDay": "Friday"
+      },
+      {
+        "id": "4",
+        "date": "2022-12-04",
+        "usage": 224.28,
+        "meanHourlyUsage": 5.47,
         "weekDay": "Sunday"
+      },
+      {
+        "id": "5",
+        "date": "2023-05-20",
+        "usage": 224.64,
+        "meanHourlyUsage": 5.47,
+        "weekDay": "Saturday"
       }
     ],
     "leastEfficientNightLastYearTable": [
       {
         "id": "1",
-        "date": "2019-01-01",
-        "usage": 1000.0,
-        "meanHourlyUsage": 250.0,
-        "weekDay": "Monday"
+        "date": "2023-01-24",
+        "usage": 471.24,
+        "meanHourlyUsage": 11.49,
+        "weekDay": "Tuesday"
       },
       {
         "id": "2",
-        "date": "2019-01-02",
-        "usage": 1600.0,
-        "meanHourlyUsage": 400.0,
+        "date": "2023-01-31",
+        "usage": 462.24,
+        "meanHourlyUsage": 11.27,
         "weekDay": "Tuesday"
       },
       {
         "id": "3",
-        "date": "2019-01-03",
-        "usage": 2000.0,
-        "meanHourlyUsage": 500.0,
-        "weekDay": "Wednesday"
-      },
-      {
-        "id": "4",
-        "date": "2019-01-04",
-        "usage": 2400.0,
-        "meanHourlyUsage": 600.0,
-        "weekDay": "Thursday"
-      },
-      {
-        "id": "5",
-        "date": "2019-01-05",
-        "usage": 1600.0,
-        "meanHourlyUsage": 400.0,
+        "date": "2022-09-09",
+        "usage": 452.52,
+        "meanHourlyUsage": 11.03,
         "weekDay": "Friday"
       },
       {
-        "id": "6",
-        "date": "2019-01-06",
-        "usage": 600.0,
-        "meanHourlyUsage": 150.0,
-        "weekDay": "Saturday"
+        "id": "4",
+        "date": "2023-01-23",
+        "usage": 448.20,
+        "meanHourlyUsage": 10.93,
+        "weekDay": "Monday"
       },
       {
-        "id": "7",
-        "date": "2019-01-07",
-        "usage": 400.0,
-        "meanHourlyUsage": 100.0,
-        "weekDay": "Sunday"
+        "id": "5",
+        "date": "2022-09-06",
+        "usage": 444.24,
+        "meanHourlyUsage": 10.83,
+        "weekDay": "Tuesday"
       }
     ]
   },
