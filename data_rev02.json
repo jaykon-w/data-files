@@ -531,9 +531,9 @@
       {
         "hour": 0,
         "sunday": 107.8,
-        "monday": 119.1,
-        "tuesday": 119.3,
-        "wednesday": 119.2,
+        "monday": 129.1,
+        "tuesday": 139.3,
+        "wednesday": 149.2,
         "thursday": 129.4,
         "friday": 129.2,
         "saturday": 107.9
@@ -541,9 +541,9 @@
       {
         "hour": 1,
         "sunday": 107.6,
-        "monday": 119.0,
-        "tuesday": 119.2,
-        "wednesday": 119.1,
+        "monday": 129.0,
+        "tuesday": 139.2,
+        "wednesday": 149.1,
         "thursday": 139.3,
         "friday": 139.1,
         "saturday": 117.7
@@ -551,9 +551,9 @@
       {
         "hour": 2,
         "sunday": 107.4,
-        "monday": 118.8,
-        "tuesday": 119.0,
-        "wednesday": 118.9,
+        "monday": 138.8,
+        "tuesday": 149.0,
+        "wednesday": 158.9,
         "thursday": 139.1,
         "friday": 138.9,
         "saturday": 127.5
@@ -561,9 +561,9 @@
       {
         "hour": 3,
         "sunday": 107.2,
-        "monday": 118.5,
-        "tuesday": 118.7,
-        "wednesday": 118.6,
+        "monday": 148.5,
+        "tuesday": 158.7,
+        "wednesday": 168.6,
         "thursday": 138.8,
         "friday": 138.6,
         "saturday": 137.3
@@ -571,10 +571,10 @@
       {
         "hour": 4,
         "sunday": 107.0,
-        "monday": 118.2,
-        "tuesday": 118.4,
-        "wednesday": 118.3,
-        "thursday": 138.5,
+        "monday": 168.2,
+        "tuesday": 158.4,
+        "wednesday": 148.3,
+        "thursday": 128.5,
         "friday": 138.3,
         "saturday": 137.1
       },
@@ -773,35 +773,35 @@
       {
         "id": "1",
         "date": "2022-06-11",
-        "usage": 186.84,
+        "usage": 106.84,
         "meanHourlyUsage": 4.55,
         "weekDay": "Saturday"
       },
       {
         "id": "2",
         "date": "2022-09-30",
-        "usage": 208.08,
+        "usage": 108.08,
         "meanHourlyUsage": 5.07,
         "weekDay": "Friday"
       },
       {
         "id": "3",
         "date": "2022-11-11",
-        "usage": 214.20,
+        "usage": 114.20,
         "meanHourlyUsage": 5.22,
         "weekDay": "Friday"
       },
       {
         "id": "4",
         "date": "2022-12-04",
-        "usage": 224.28,
+        "usage": 124.28,
         "meanHourlyUsage": 5.47,
         "weekDay": "Sunday"
       },
       {
         "id": "5",
         "date": "2023-05-20",
-        "usage": 224.64,
+        "usage": 134.64,
         "meanHourlyUsage": 5.47,
         "weekDay": "Saturday"
       }
@@ -810,36 +810,36 @@
       {
         "id": "1",
         "date": "2023-01-24",
-        "usage": 471.24,
-        "meanHourlyUsage": 11.49,
+        "usage": 1471.24,
+        "meanHourlyUsage": 421.49,
         "weekDay": "Tuesday"
       },
       {
         "id": "2",
         "date": "2023-01-31",
-        "usage": 462.24,
-        "meanHourlyUsage": 11.27,
+        "usage": 1462.24,
+        "meanHourlyUsage": 321.27,
         "weekDay": "Tuesday"
       },
       {
         "id": "3",
         "date": "2022-09-09",
-        "usage": 452.52,
-        "meanHourlyUsage": 11.03,
+        "usage": 1452.52,
+        "meanHourlyUsage": 321.03,
         "weekDay": "Friday"
       },
       {
         "id": "4",
         "date": "2023-01-23",
-        "usage": 448.20,
-        "meanHourlyUsage": 10.93,
+        "usage": 1448.20,
+        "meanHourlyUsage": 320.93,
         "weekDay": "Monday"
       },
       {
         "id": "5",
         "date": "2022-09-06",
-        "usage": 444.24,
-        "meanHourlyUsage": 10.83,
+        "usage": 1444.24,
+        "meanHourlyUsage": 320.83,
         "weekDay": "Tuesday"
       }
     ]
