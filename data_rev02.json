@@ -810,35 +810,35 @@
       {
         "id": "1",
         "date": "2023-01-24",
-        "usage": 1471.24,
+        "usage": 1571.24,
         "meanHourlyUsage": 421.49,
         "weekDay": "Tuesday"
       },
       {
         "id": "2",
         "date": "2023-01-31",
-        "usage": 1462.24,
+        "usage": 1562.24,
         "meanHourlyUsage": 321.27,
         "weekDay": "Tuesday"
       },
       {
         "id": "3",
         "date": "2022-09-09",
-        "usage": 1452.52,
+        "usage": 1552.52,
         "meanHourlyUsage": 321.03,
         "weekDay": "Friday"
       },
       {
         "id": "4",
         "date": "2023-01-23",
-        "usage": 1448.20,
+        "usage": 1548.20,
         "meanHourlyUsage": 320.93,
         "weekDay": "Monday"
       },
       {
         "id": "5",
         "date": "2022-09-06",
-        "usage": 1444.24,
+        "usage": 1544.24,
         "meanHourlyUsage": 320.83,
         "weekDay": "Tuesday"
       }
