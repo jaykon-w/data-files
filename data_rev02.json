@@ -988,12 +988,12 @@
       "hitsPercentageMedian": 60
     },
     "runtimeAverageConsumption": [
-      { "hour": 0, "minutes": 2, "consumption": 334 },
-      { "hour": 1, "minutes": 1, "consumption": 361 },
-      { "hour": 2, "minutes": 1, "consumption": 347 },
-      { "hour": 3, "minutes": 2, "consumption": 377 },
-      { "hour": 4, "minutes": 1, "consumption": 350 },
-      { "hour": 5, "minutes": 40, "consumption": 343 },
+      { "hour": 0, "minutes": 2, "consumption": 5 },
+      { "hour": 1, "minutes": 1, "consumption": 5 },
+      { "hour": 2, "minutes": 1, "consumption": 5 },
+      { "hour": 3, "minutes": 2, "consumption": 5 },
+      { "hour": 4, "minutes": 1, "consumption": 5 },
+      { "hour": 5, "minutes": 40, "consumption": 120 },
       { "hour": 6, "minutes": 55, "consumption": 422 },
       { "hour": 7, "minutes": 60, "consumption": 475 },
       { "hour": 8, "minutes": 57, "consumption": 474 },
