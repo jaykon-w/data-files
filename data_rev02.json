@@ -1005,13 +1005,13 @@
       { "hour": 14, "minutes": 58, "consumption": 360.3 },
       { "hour": 15, "minutes": 60, "consumption": 360.3 },
       { "hour": 16, "minutes": 60, "consumption": 360.3 },
-      { "hour": 17, "minutes": 59, "consumption": 360.3 },
-      { "hour": 18, "minutes": 55, "consumption": 360.3 },
-      { "hour": 19, "minutes": 57, "consumption": 360.3 },
-      { "hour": 20, "minutes": 45, "consumption": 360.3 },
-      { "hour": 21, "minutes": 30, "consumption": 360.3 },
-      { "hour": 22, "minutes": 1, "consumption": 360.3 },
-      { "hour": 23, "minutes": 2, "consumption": 360.3 }
+      { "hour": 17, "minutes": 60, "consumption": 360.3 },
+      { "hour": 18, "minutes": 60, "consumption": 120 },
+      { "hour": 19, "minutes": 60, "consumption": 120 },
+      { "hour": 20, "minutes": 60, "consumption": 120 },
+      { "hour": 21, "minutes": 60, "consumption": 120 },
+      { "hour": 22, "minutes": 1, "consumption": 5 },
+      { "hour": 23, "minutes": 2, "consumption": 5 }
     ]
   }
 }
