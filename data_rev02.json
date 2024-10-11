@@ -33,61 +33,337 @@
       }
     ],
     "averageKWhPrice": [
-      { "month": "January", "previousYear": 0.22, "currentYear": 0.21 },
-      { "month": "February", "previousYear": 0.21, "currentYear": 0.21 },
-      { "month": "March", "previousYear": 0.23, "currentYear": 0.21 },
-      { "month": "April", "previousYear": 0.21, "currentYear": 0.23 },
-      { "month": "May", "previousYear": 0.22, "currentYear": 0.25 },
-      { "month": "June", "previousYear": 0.28, "currentYear": 0.3 },
-      { "month": "July", "previousYear": 0.32, "currentYear": 0.38 },
-      { "month": "August", "previousYear": 0.32, "currentYear": 0.36 },
-      { "month": "September", "previousYear": 0.33, "currentYear": 0.38 },
-      { "month": "October", "previousYear": 0.28, "currentYear": 0.29 },
-      { "month": "November", "previousYear": 0.23, "currentYear": 0.26 },
-      { "month": "December", "previousYear": 0.23, "currentYear": 0.25 }
+      {
+        "month": "January",
+        "previousYear": 0.22,
+        "currentYear": 0.21
+      },
+      {
+        "month": "February",
+        "previousYear": 0.21,
+        "currentYear": 0.21
+      },
+      {
+        "month": "March",
+        "previousYear": 0.23,
+        "currentYear": 0.21
+      },
+      {
+        "month": "April",
+        "previousYear": 0.21,
+        "currentYear": 0.23
+      },
+      {
+        "month": "May",
+        "previousYear": 0.22,
+        "currentYear": 0.25
+      },
+      {
+        "month": "June",
+        "previousYear": 0.28,
+        "currentYear": 0.3
+      },
+      {
+        "month": "July",
+        "previousYear": 0.32,
+        "currentYear": 0.38
+      },
+      {
+        "month": "August",
+        "previousYear": 0.32,
+        "currentYear": 0.36
+      },
+      {
+        "month": "September",
+        "previousYear": 0.33,
+        "currentYear": 0.38
+      },
+      {
+        "month": "October",
+        "previousYear": 0.28,
+        "currentYear": 0.29
+      },
+      {
+        "month": "November",
+        "previousYear": 0.23,
+        "currentYear": 0.26
+      },
+      {
+        "month": "December",
+        "previousYear": 0.23,
+        "currentYear": 0.25
+      }
     ],
     "costConsumptionAnalysis": [
-      { "month": "Jan", "cost": 16.6, "consumption": -6 },
-      { "month": "Feb", "cost": -1.4, "consumption": -18.5 },
-      { "month": "Mar", "cost": -2.8, "consumption": -7.9 },
-      { "month": "Apr", "cost": 11.2, "consumption": 5.3 },
-      { "month": "May", "cost": 8.1, "consumption": 0.4 },
-      { "month": "Jun", "cost": 14.8, "consumption": -3.2 },
-      { "month": "Jul", "cost": 22.5, "consumption": 2.3 },
-      { "month": "Aug", "cost": 13.7, "consumption": -3.3 },
-      { "month": "Sep", "cost": 16.4, "consumption": 10.3 },
-      { "month": "Oct", "cost": 18, "consumption": 6 },
-      { "month": "Nov", "cost": 11.2, "consumption": 7.6 },
-      { "month": "Dec", "cost": 26.4, "consumption": 3.5 }
+      {
+        "month": "Jan",
+        "cost": 16.6,
+        "consumption": -6
+      },
+      {
+        "month": "Feb",
+        "cost": -1.4,
+        "consumption": -18.5
+      },
+      {
+        "month": "Mar",
+        "cost": -2.8,
+        "consumption": -7.9
+      },
+      {
+        "month": "Apr",
+        "cost": 11.2,
+        "consumption": 5.3
+      },
+      {
+        "month": "May",
+        "cost": 8.1,
+        "consumption": 0.4
+      },
+      {
+        "month": "Jun",
+        "cost": 14.8,
+        "consumption": -3.2
+      },
+      {
+        "month": "Jul",
+        "cost": 22.5,
+        "consumption": 2.3
+      },
+      {
+        "month": "Aug",
+        "cost": 13.7,
+        "consumption": -3.3
+      },
+      {
+        "month": "Sep",
+        "cost": 16.4,
+        "consumption": 10.3
+      },
+      {
+        "month": "Oct",
+        "cost": 18,
+        "consumption": 6
+      },
+      {
+        "month": "Nov",
+        "cost": 11.2,
+        "consumption": 7.6
+      },
+      {
+        "month": "Dec",
+        "cost": 26.4,
+        "consumption": 3.5
+      }
     ],
     "totalConsumption": [
-      { "month": "Jan", "2023": 123391, "2022": 124207 },
-      { "month": "Feb", "2023": 106238, "2022": 58903 },
-      { "month": "Mar", "2023": 124766, "2022": 192657 },
-      { "month": "Apr", "2023": 98313, "2022": 115275 },
-      { "month": "May", "2023": 110580, "2022": 134339 },
-      { "month": "Jun", "2023": 142158, "2022": 163629 },
-      { "month": "Jul", "2023": 132492, "2022": 148131 },
-      { "month": "Aug", "2023": 198650, "2022": 188777 },
-      { "month": "Sep", "2023": 162477, "2022": 183200 },
-      { "month": "Oct", "2023": 63092, "2022": 155943 },
-      { "month": "Nov", "2023": 153677, "2022": 114938 },
-      { "month": "Dec", "2023": 151218, "2022": 134543 }
+      {
+        "month": "Jan",
+        "totalKwh": [
+          {
+            "kwh": 124207,
+            "year": 2022
+          },
+          {
+            "kwh": 123391,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "month": "Feb",
+        "totalKwh": [
+          {
+            "kwh": 58903,
+            "year": 2022
+          },
+          {
+            "kwh": 106238,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "month": "Mar",
+        "totalKwh": [
+          {
+            "kwh": 192657,
+            "year": 2022
+          },
+          {
+            "kwh": 124766,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "month": "Apr",
+        "totalKwh": [
+          {
+            "kwh": 115275,
+            "year": 2022
+          },
+          {
+            "kwh": 98313,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "month": "May",
+        "totalKwh": [
+          {
+            "kwh": 134339,
+            "year": 2022
+          },
+          {
+            "kwh": 110580,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "month": "Jun",
+        "totalKwh": [
+          {
+            "kwh": 163629,
+            "year": 2022
+          },
+          {
+            "kwh": 142158,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "month": "Jul",
+        "totalKwh": [
+          {
+            "kwh": 148131,
+            "year": 2022
+          },
+          {
+            "kwh": 132492,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "month": "Aug",
+        "totalKwh": [
+          {
+            "kwh": 188777,
+            "year": 2022
+          },
+          {
+            "kwh": 198650,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "month": "Sep",
+        "totalKwh": [
+          {
+            "kwh": 183200,
+            "year": 2022
+          },
+          {
+            "kwh": 162477,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "month": "Oct",
+        "totalKwh": [
+          {
+            "kwh": 155943,
+            "year": 2022
+          },
+          {
+            "kwh": 63092,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "month": "Nov",
+        "totalKwh": [
+          {
+            "kwh": 114938,
+            "year": 2022
+          },
+          {
+            "kwh": 153677,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "month": "Dec",
+        "totalKwh": [
+          {
+            "kwh": 134543,
+            "year": 2022
+          },
+          {
+            "kwh": 151218,
+            "year": 2023
+          }
+        ]
+      }
     ],
     "trendingEUI": {
       "data": [
-        { "date": "Jan", "usage": 0.65 },
-        { "date": "Feb", "usage": 0.71 },
-        { "date": "Mar", "usage": 0.69 },
-        { "date": "Apr", "usage": 0.87 },
-        { "date": "May", "usage": 0.92 },
-        { "date": "Jun", "usage": 1.11 },
-        { "date": "Jul", "usage": 1.27 },
-        { "date": "Aug", "usage": 1.30 },
-        { "date": "Sep", "usage": 1.07 },
-        { "date": "Oct", "usage": 0.91 },
-        { "date": "Nov", "usage": 0.82 },
-        { "date": "Dec", "usage": 0.77 }
+        {
+          "date": "Jan",
+          "usage": 0.65
+        },
+        {
+          "date": "Feb",
+          "usage": 0.71
+        },
+        {
+          "date": "Mar",
+          "usage": 0.69
+        },
+        {
+          "date": "Apr",
+          "usage": 0.87
+        },
+        {
+          "date": "May",
+          "usage": 0.92
+        },
+        {
+          "date": "Jun",
+          "usage": 1.11
+        },
+        {
+          "date": "Jul",
+          "usage": 1.27
+        },
+        {
+          "date": "Aug",
+          "usage": 1.30
+        },
+        {
+          "date": "Sep",
+          "usage": 1.07
+        },
+        {
+          "date": "Oct",
+          "usage": 0.91
+        },
+        {
+          "date": "Nov",
+          "usage": 0.82
+        },
+        {
+          "date": "Dec",
+          "usage": 0.77
+        }
       ],
       "percentage": 18
     },
@@ -135,163 +411,610 @@
     ],
     "averageKWhPriceTable": {
       "firstPart": [
-        { "month": "January", "kwhPrice": 0.21 },
-        { "month": "February", "kwhPrice": 0.21 },
-        { "month": "March", "kwhPrice": 0.21 },
-        { "month": "April", "kwhPrice": 0.23 },
-        { "month": "May", "kwhPrice": 0.25 },
-        { "month": "June", "kwhPrice": 0.30 }
+        {
+          "month": "January",
+          "kwhPrice": 0.21
+        },
+        {
+          "month": "February",
+          "kwhPrice": 0.21
+        },
+        {
+          "month": "March",
+          "kwhPrice": 0.21
+        },
+        {
+          "month": "April",
+          "kwhPrice": 0.23
+        },
+        {
+          "month": "May",
+          "kwhPrice": 0.25
+        },
+        {
+          "month": "June",
+          "kwhPrice": 0.30
+        }
       ],
       "secondPart": [
-        { "month": "July", "kwhPrice": 0.38 },
-        { "month": "August", "kwhPrice": 0.36 },
-        { "month": "September", "kwhPrice": 0.38 },
-        { "month": "October", "kwhPrice": 0.29 },
-        { "month": "November", "kwhPrice": 0.26 },
-        { "month": "December", "kwhPrice": 0.25 }
+        {
+          "month": "July",
+          "kwhPrice": 0.38
+        },
+        {
+          "month": "August",
+          "kwhPrice": 0.36
+        },
+        {
+          "month": "September",
+          "kwhPrice": 0.38
+        },
+        {
+          "month": "October",
+          "kwhPrice": 0.29
+        },
+        {
+          "month": "November",
+          "kwhPrice": 0.26
+        },
+        {
+          "month": "December",
+          "kwhPrice": 0.25
+        }
       ]
     }
   },
   "peak": {
     "demandCost": [
-      { "month": "Jan", "cost": 5537.09, "consumption": 334 },
-      { "month": "Feb", "cost": 6015.84, "consumption": 361 },
-      { "month": "Mar", "cost": 5784.96, "consumption": 347 },
-      { "month": "Apr", "cost": 6292.22, "consumption": 377 },
-      { "month": "May", "cost": 5954.29, "consumption": 350 },
-      { "month": "Jun", "cost": 6079.58, "consumption": 343 },
-      { "month": "Jul", "cost": 7841.89, "consumption": 422 },
-      { "month": "Aug", "cost": 8679.65, "consumption": 475 },
-      { "month": "Sep", "cost": 8708.37, "consumption": 474 },
-      { "month": "Oct", "cost": 1618.63, "consumption": 120 },
-      { "month": "Nov", "cost": 6251.25, "consumption": 360.3 },
-      { "month": "Dec", "cost": 6251.25, "consumption": 360.3 }
+      {
+        "month": "Jan",
+        "cost": 5537.09,
+        "consumption": 334
+      },
+      {
+        "month": "Feb",
+        "cost": 6015.84,
+        "consumption": 361
+      },
+      {
+        "month": "Mar",
+        "cost": 5784.96,
+        "consumption": 347
+      },
+      {
+        "month": "Apr",
+        "cost": 6292.22,
+        "consumption": 377
+      },
+      {
+        "month": "May",
+        "cost": 5954.29,
+        "consumption": 350
+      },
+      {
+        "month": "Jun",
+        "cost": 6079.58,
+        "consumption": 343
+      },
+      {
+        "month": "Jul",
+        "cost": 7841.89,
+        "consumption": 422
+      },
+      {
+        "month": "Aug",
+        "cost": 8679.65,
+        "consumption": 475
+      },
+      {
+        "month": "Sep",
+        "cost": 8708.37,
+        "consumption": 474
+      },
+      {
+        "month": "Oct",
+        "cost": 1618.63,
+        "consumption": 120
+      },
+      {
+        "month": "Nov",
+        "cost": 6251.25,
+        "consumption": 360.3
+      },
+      {
+        "month": "Dec",
+        "cost": 6251.25,
+        "consumption": 360.3
+      }
     ],
     "frequencyTopPeaks": [
-      { "frequency": 0, "hour": 0.0 },
-      { "frequency": 0, "hour": 0.25 },      
-      { "frequency": 0, "hour": 0.50 },
-      { "frequency": 0, "hour": 0.75 },
-      { "frequency": 0, "hour": 1.0 },
-      { "frequency": 0, "hour": 1.25 },      
-      { "frequency": 0, "hour": 1.50 },
-      { "frequency": 0, "hour": 1.75 },
-      { "frequency": 0, "hour": 2.0 },
-      { "frequency": 0, "hour": 2.25 },
-      { "frequency": 0, "hour": 2.50 },
-      { "frequency": 0, "hour": 2.75 },
-      { "frequency": 0, "hour": 3.0 },
-      { "frequency": 0, "hour": 3.25 },
-      { "frequency": 0, "hour": 3.5 },
-      { "frequency": 0, "hour": 3.75 },
-      { "frequency": 0, "hour": 4.0 },
-      { "frequency": 0, "hour": 4.25 },
-      { "frequency": 0, "hour": 4.5 },
-      { "frequency": 0, "hour": 4.75 },
-      { "frequency": 0, "hour": 5.0 },
-      { "frequency": 0, "hour": 5.25 },
-      { "frequency": 0, "hour": 5.5 },
-      { "frequency": 0, "hour": 5.75 },
-      { "frequency": 0, "hour": 6.0 },
-      { "frequency": 0, "hour": 6.25 },
-      { "frequency": 0, "hour": 6.5 },
-      { "frequency": 0, "hour": 6.75 },
-      { "frequency": 0, "hour": 7.0 },
-      { "frequency": 55, "hour": 7.25 },
-      { "frequency": 0, "hour": 7.50 },
-      { "frequency": 55, "hour": 7.75 },
-      { "frequency": 66, "hour": 8.0 },
-      { "frequency": 88, "hour": 8.25 },
-      { "frequency": 66, "hour": 8.5 },
-      { "frequency": 88, "hour": 8.75 },
-      { "frequency": 99, "hour": 9.0 },
-      { "frequency": 0, "hour": 9.25 },
-      { "frequency": 99, "hour": 9.5 },
-      { "frequency": 0, "hour": 9.75 },
-      { "frequency": 0, "hour": 10.0 },
-      { "frequency": 66, "hour": 10.25 },
-      { "frequency": 99, "hour": 10.5 },
-      { "frequency": 125, "hour": 10.75 },
-      { "frequency": 66, "hour": 11.0 },
-      { "frequency": 0, "hour": 11.25 },
-      { "frequency": 99, "hour": 11.5 },
-      { "frequency": 0, "hour": 11.75 },
-      { "frequency": 125, "hour": 12.0 },
-      { "frequency": 66, "hour": 12.25 },
-      { "frequency": 55, "hour": 12.50 },
-      { "frequency": 77, "hour": 12.75 },
-      { "frequency": 99, "hour": 13.0 },
-      { "frequency": 0, "hour": 13.25 },
-      { "frequency": 77, "hour": 13.5 },
-      { "frequency": 99, "hour": 13.75 },
-      { "frequency": 99, "hour": 14.0 },
-      { "frequency": 0, "hour": 14.25 },
-      { "frequency": 0, "hour": 14.5 },
-      { "frequency": 88, "hour": 14.75 },
-      { "frequency": 99, "hour": 15.0 },
-      { "frequency": 20, "hour": 15.25 },
-      { "frequency": 66, "hour": 15.5 },
-      { "frequency": 77, "hour": 15.75 },
-      { "frequency": 99, "hour": 16.0 },
-      { "frequency": 20, "hour": 16.25 },
-      { "frequency": 0, "hour": 16.5 },
-      { "frequency": 0, "hour": 16.75 },
-      { "frequency": 0, "hour": 17.0 },
-      { "frequency": 0, "hour": 17.25 },
-      { "frequency": 0, "hour": 17.5 },
-      { "frequency": 0, "hour": 17.75 },
-      { "frequency": 0, "hour": 18.0 },
-      { "frequency": 0, "hour": 18.25 },
-      { "frequency": 0, "hour": 18.5 },
-      { "frequency": 0, "hour": 18.75 },
-      { "frequency": 0, "hour": 19.0 },
-      { "frequency": 0, "hour": 19.25 },
-      { "frequency": 0, "hour": 19.5 },
-      { "frequency": 0, "hour": 19.75 },
-      { "frequency": 0, "hour": 20.0 },
-      { "frequency": 0, "hour": 20.25 },
-      { "frequency": 0, "hour": 20.5 },
-      { "frequency": 0, "hour": 20.75 },
-      { "frequency": 0, "hour": 21.0 },
-      { "frequency": 0, "hour": 21.25 },
-      { "frequency": 0, "hour": 21.5 },
-      { "frequency": 0, "hour": 21.75 },
-      { "frequency": 0, "hour": 22.0 },
-      { "frequency": 0, "hour": 22.25 },
-      { "frequency": 0, "hour": 22.5 },
-      { "frequency": 0, "hour": 22.75 },
-      { "frequency": 0, "hour": 23.0 },
-      { "frequency": 0, "hour": 23.25 },
-      { "frequency": 0, "hour": 23.5 },
-      { "frequency": 0, "hour": 23.75 }
+      {
+        "frequency": 0,
+        "hour": 0.0
+      },
+      {
+        "frequency": 0,
+        "hour": 0.25
+      },
+      {
+        "frequency": 0,
+        "hour": 0.50
+      },
+      {
+        "frequency": 0,
+        "hour": 0.75
+      },
+      {
+        "frequency": 0,
+        "hour": 1.0
+      },
+      {
+        "frequency": 0,
+        "hour": 1.25
+      },
+      {
+        "frequency": 0,
+        "hour": 1.50
+      },
+      {
+        "frequency": 0,
+        "hour": 1.75
+      },
+      {
+        "frequency": 0,
+        "hour": 2.0
+      },
+      {
+        "frequency": 0,
+        "hour": 2.25
+      },
+      {
+        "frequency": 0,
+        "hour": 2.50
+      },
+      {
+        "frequency": 0,
+        "hour": 2.75
+      },
+      {
+        "frequency": 0,
+        "hour": 3.0
+      },
+      {
+        "frequency": 0,
+        "hour": 3.25
+      },
+      {
+        "frequency": 0,
+        "hour": 3.5
+      },
+      {
+        "frequency": 0,
+        "hour": 3.75
+      },
+      {
+        "frequency": 0,
+        "hour": 4.0
+      },
+      {
+        "frequency": 0,
+        "hour": 4.25
+      },
+      {
+        "frequency": 0,
+        "hour": 4.5
+      },
+      {
+        "frequency": 0,
+        "hour": 4.75
+      },
+      {
+        "frequency": 0,
+        "hour": 5.0
+      },
+      {
+        "frequency": 0,
+        "hour": 5.25
+      },
+      {
+        "frequency": 0,
+        "hour": 5.5
+      },
+      {
+        "frequency": 0,
+        "hour": 5.75
+      },
+      {
+        "frequency": 0,
+        "hour": 6.0
+      },
+      {
+        "frequency": 0,
+        "hour": 6.25
+      },
+      {
+        "frequency": 0,
+        "hour": 6.5
+      },
+      {
+        "frequency": 0,
+        "hour": 6.75
+      },
+      {
+        "frequency": 0,
+        "hour": 7.0
+      },
+      {
+        "frequency": 55,
+        "hour": 7.25
+      },
+      {
+        "frequency": 0,
+        "hour": 7.50
+      },
+      {
+        "frequency": 55,
+        "hour": 7.75
+      },
+      {
+        "frequency": 66,
+        "hour": 8.0
+      },
+      {
+        "frequency": 88,
+        "hour": 8.25
+      },
+      {
+        "frequency": 66,
+        "hour": 8.5
+      },
+      {
+        "frequency": 88,
+        "hour": 8.75
+      },
+      {
+        "frequency": 99,
+        "hour": 9.0
+      },
+      {
+        "frequency": 0,
+        "hour": 9.25
+      },
+      {
+        "frequency": 99,
+        "hour": 9.5
+      },
+      {
+        "frequency": 0,
+        "hour": 9.75
+      },
+      {
+        "frequency": 0,
+        "hour": 10.0
+      },
+      {
+        "frequency": 66,
+        "hour": 10.25
+      },
+      {
+        "frequency": 99,
+        "hour": 10.5
+      },
+      {
+        "frequency": 125,
+        "hour": 10.75
+      },
+      {
+        "frequency": 66,
+        "hour": 11.0
+      },
+      {
+        "frequency": 0,
+        "hour": 11.25
+      },
+      {
+        "frequency": 99,
+        "hour": 11.5
+      },
+      {
+        "frequency": 0,
+        "hour": 11.75
+      },
+      {
+        "frequency": 125,
+        "hour": 12.0
+      },
+      {
+        "frequency": 66,
+        "hour": 12.25
+      },
+      {
+        "frequency": 55,
+        "hour": 12.50
+      },
+      {
+        "frequency": 77,
+        "hour": 12.75
+      },
+      {
+        "frequency": 99,
+        "hour": 13.0
+      },
+      {
+        "frequency": 0,
+        "hour": 13.25
+      },
+      {
+        "frequency": 77,
+        "hour": 13.5
+      },
+      {
+        "frequency": 99,
+        "hour": 13.75
+      },
+      {
+        "frequency": 99,
+        "hour": 14.0
+      },
+      {
+        "frequency": 0,
+        "hour": 14.25
+      },
+      {
+        "frequency": 0,
+        "hour": 14.5
+      },
+      {
+        "frequency": 88,
+        "hour": 14.75
+      },
+      {
+        "frequency": 99,
+        "hour": 15.0
+      },
+      {
+        "frequency": 20,
+        "hour": 15.25
+      },
+      {
+        "frequency": 66,
+        "hour": 15.5
+      },
+      {
+        "frequency": 77,
+        "hour": 15.75
+      },
+      {
+        "frequency": 99,
+        "hour": 16.0
+      },
+      {
+        "frequency": 20,
+        "hour": 16.25
+      },
+      {
+        "frequency": 0,
+        "hour": 16.5
+      },
+      {
+        "frequency": 0,
+        "hour": 16.75
+      },
+      {
+        "frequency": 0,
+        "hour": 17.0
+      },
+      {
+        "frequency": 0,
+        "hour": 17.25
+      },
+      {
+        "frequency": 0,
+        "hour": 17.5
+      },
+      {
+        "frequency": 0,
+        "hour": 17.75
+      },
+      {
+        "frequency": 0,
+        "hour": 18.0
+      },
+      {
+        "frequency": 0,
+        "hour": 18.25
+      },
+      {
+        "frequency": 0,
+        "hour": 18.5
+      },
+      {
+        "frequency": 0,
+        "hour": 18.75
+      },
+      {
+        "frequency": 0,
+        "hour": 19.0
+      },
+      {
+        "frequency": 0,
+        "hour": 19.25
+      },
+      {
+        "frequency": 0,
+        "hour": 19.5
+      },
+      {
+        "frequency": 0,
+        "hour": 19.75
+      },
+      {
+        "frequency": 0,
+        "hour": 20.0
+      },
+      {
+        "frequency": 0,
+        "hour": 20.25
+      },
+      {
+        "frequency": 0,
+        "hour": 20.5
+      },
+      {
+        "frequency": 0,
+        "hour": 20.75
+      },
+      {
+        "frequency": 0,
+        "hour": 21.0
+      },
+      {
+        "frequency": 0,
+        "hour": 21.25
+      },
+      {
+        "frequency": 0,
+        "hour": 21.5
+      },
+      {
+        "frequency": 0,
+        "hour": 21.75
+      },
+      {
+        "frequency": 0,
+        "hour": 22.0
+      },
+      {
+        "frequency": 0,
+        "hour": 22.25
+      },
+      {
+        "frequency": 0,
+        "hour": 22.5
+      },
+      {
+        "frequency": 0,
+        "hour": 22.75
+      },
+      {
+        "frequency": 0,
+        "hour": 23.0
+      },
+      {
+        "frequency": 0,
+        "hour": 23.25
+      },
+      {
+        "frequency": 0,
+        "hour": 23.5
+      },
+      {
+        "frequency": 0,
+        "hour": 23.75
+      }
     ],
     "intervalEnergyUsageMostRecentBillingPeriod": {
       "data": [
-        { "frequency": 133, "kwh": 33 },
-        { "frequency": 122, "kwh": 35 },
-        { "frequency": 145, "kwh": 41 },
-        { "frequency": 284, "kwh": 83 },
-        { "frequency": 103, "kwh": 92 },
-        { "frequency": 148, "kwh": 103 },
-        { "frequency": 142, "kwh": 122 },
-        { "frequency": 132, "kwh": 132 },
-        { "frequency": 148, "kwh": 234 },
-        { "frequency": 441, "kwh": 65 },
-        { "frequency": 491, "kwh": 99 },
-        { "frequency": 356, "kwh": 23 },
-        { "frequency": 441, "kwh": 34 },
-        { "frequency": 43, "kwh": 67 },
-        { "frequency": 40, "kwh": 123 },
-        { "frequency": 316, "kwh": 194 },
-        { "frequency": 513, "kwh": 183 },
-        { "frequency": 613, "kwh": 201 },
-        { "frequency": 116, "kwh": 286 },
-        { "frequency": 6, "kwh": 351 },
-        { "frequency": 112, "kwh": 262 },
-        { "frequency": 5, "kwh": 397 },
-        { "frequency": 15, "kwh": 363 },
-        { "frequency": 25, "kwh": 355 },
-        { "frequency": 30, "kwh": 333 }
+        {
+          "frequency": 133,
+          "kwh": 33
+        },
+        {
+          "frequency": 122,
+          "kwh": 35
+        },
+        {
+          "frequency": 145,
+          "kwh": 41
+        },
+        {
+          "frequency": 284,
+          "kwh": 83
+        },
+        {
+          "frequency": 103,
+          "kwh": 92
+        },
+        {
+          "frequency": 148,
+          "kwh": 103
+        },
+        {
+          "frequency": 142,
+          "kwh": 122
+        },
+        {
+          "frequency": 132,
+          "kwh": 132
+        },
+        {
+          "frequency": 148,
+          "kwh": 234
+        },
+        {
+          "frequency": 441,
+          "kwh": 65
+        },
+        {
+          "frequency": 491,
+          "kwh": 99
+        },
+        {
+          "frequency": 356,
+          "kwh": 23
+        },
+        {
+          "frequency": 441,
+          "kwh": 34
+        },
+        {
+          "frequency": 43,
+          "kwh": 67
+        },
+        {
+          "frequency": 40,
+          "kwh": 123
+        },
+        {
+          "frequency": 316,
+          "kwh": 194
+        },
+        {
+          "frequency": 513,
+          "kwh": 183
+        },
+        {
+          "frequency": 613,
+          "kwh": 201
+        },
+        {
+          "frequency": 116,
+          "kwh": 286
+        },
+        {
+          "frequency": 6,
+          "kwh": 351
+        },
+        {
+          "frequency": 112,
+          "kwh": 262
+        },
+        {
+          "frequency": 5,
+          "kwh": 397
+        },
+        {
+          "frequency": 15,
+          "kwh": 363
+        },
+        {
+          "frequency": 25,
+          "kwh": 355
+        },
+        {
+          "frequency": 30,
+          "kwh": 333
+        }
       ],
       "percentage": 32
     },
@@ -939,13 +1662,41 @@
       }
     ],
     "highLowConsumption": [
-      { "type": "lowest", "value": 8.1, "fill": "hsl(var(--chart-2))" },
-      { "type": "highest", "value": 28.1, "fill": "hsl(var(--primary)" },
-      { "type": "highest", "value": 28.1, "fill": "hsl(var(--primary)" },
-      { "type": "highest", "value": 28.1, "fill": "hsl(var(--primary)" },
-      { "type": "highest", "value": 28.1, "fill": "hsl(var(--primary)" },
-      { "type": "highest", "value": 28.1, "fill": "hsl(var(--primary)" },
-      { "type": "highest", "value": 28.1, "fill": "hsl(var(--primary)" }
+      {
+        "type": "lowest",
+        "value": 8.1,
+        "fill": "hsl(var(--chart-2))"
+      },
+      {
+        "type": "highest",
+        "value": 28.1,
+        "fill": "hsl(var(--primary)"
+      },
+      {
+        "type": "highest",
+        "value": 28.1,
+        "fill": "hsl(var(--primary)"
+      },
+      {
+        "type": "highest",
+        "value": 28.1,
+        "fill": "hsl(var(--primary)"
+      },
+      {
+        "type": "highest",
+        "value": 28.1,
+        "fill": "hsl(var(--primary)"
+      },
+      {
+        "type": "highest",
+        "value": 28.1,
+        "fill": "hsl(var(--primary)"
+      },
+      {
+        "type": "highest",
+        "value": 28.1,
+        "fill": "hsl(var(--primary)"
+      }
     ],
     "highestConsumption": [
       {
@@ -958,10 +1709,26 @@
         "consumption": 80,
         "fill": "var(--color-february)"
       },
-      { "month": "march", "consumption": 87, "fill": "var(--color-march)" },
-      { "month": "april", "consumption": 103, "fill": "var(--color-april)" },
-      { "month": "may", "consumption": 190, "fill": "var(--color-may)" },
-      { "month": "june", "consumption": 214, "fill": "var(--color-june)" }
+      {
+        "month": "march",
+        "consumption": 87,
+        "fill": "var(--color-march)"
+      },
+      {
+        "month": "april",
+        "consumption": 103,
+        "fill": "var(--color-april)"
+      },
+      {
+        "month": "may",
+        "consumption": 190,
+        "fill": "var(--color-may)"
+      },
+      {
+        "month": "june",
+        "consumption": 214,
+        "fill": "var(--color-june)"
+      }
     ],
     "lowestConsumption": [
       {
@@ -974,10 +1741,26 @@
         "consumption": 53,
         "fill": "var(--color-february)"
       },
-      { "month": "march", "consumption": 74, "fill": "var(--color-march)" },
-      { "month": "april", "consumption": 29, "fill": "var(--color-april)" },
-      { "month": "may", "consumption": 25, "fill": "var(--color-may)" },
-      { "month": "june", "consumption": 110, "fill": "var(--color-june)" }
+      {
+        "month": "march",
+        "consumption": 74,
+        "fill": "var(--color-march)"
+      },
+      {
+        "month": "april",
+        "consumption": 29,
+        "fill": "var(--color-april)"
+      },
+      {
+        "month": "may",
+        "consumption": 25,
+        "fill": "var(--color-may)"
+      },
+      {
+        "month": "june",
+        "consumption": 110,
+        "fill": "var(--color-june)"
+      }
     ],
     "averageHourlyConsumption": {
       "lower": 15.5,
@@ -988,30 +1771,126 @@
       "hitsPercentageMedian": 60
     },
     "runtimeAverageConsumption": [
-      { "hour": 0, "minutes": 2, "consumption": 5 },
-      { "hour": 1, "minutes": 1, "consumption": 5 },
-      { "hour": 2, "minutes": 1, "consumption": 5 },
-      { "hour": 3, "minutes": 2, "consumption": 5 },
-      { "hour": 4, "minutes": 1, "consumption": 5 },
-      { "hour": 5, "minutes": 40, "consumption": 120 },
-      { "hour": 6, "minutes": 55, "consumption": 422 },
-      { "hour": 7, "minutes": 60, "consumption": 475 },
-      { "hour": 8, "minutes": 57, "consumption": 474 },
-      { "hour": 9, "minutes": 60, "consumption": 120 },
-      { "hour": 10, "minutes": 55, "consumption": 360.3 },
-      { "hour": 11, "minutes": 40, "consumption": 360.3 },
-      { "hour": 12, "minutes": 35, "consumption": 360.3 },
-      { "hour": 13, "minutes": 50, "consumption": 360.3 },
-      { "hour": 14, "minutes": 58, "consumption": 360.3 },
-      { "hour": 15, "minutes": 60, "consumption": 360.3 },
-      { "hour": 16, "minutes": 60, "consumption": 360.3 },
-      { "hour": 17, "minutes": 60, "consumption": 360.3 },
-      { "hour": 18, "minutes": 60, "consumption": 120 },
-      { "hour": 19, "minutes": 60, "consumption": 120 },
-      { "hour": 20, "minutes": 60, "consumption": 120 },
-      { "hour": 21, "minutes": 60, "consumption": 120 },
-      { "hour": 22, "minutes": 1, "consumption": 5 },
-      { "hour": 23, "minutes": 2, "consumption": 5 }
+      {
+        "hour": 0,
+        "minutes": 2,
+        "consumption": 5
+      },
+      {
+        "hour": 1,
+        "minutes": 1,
+        "consumption": 5
+      },
+      {
+        "hour": 2,
+        "minutes": 1,
+        "consumption": 5
+      },
+      {
+        "hour": 3,
+        "minutes": 2,
+        "consumption": 5
+      },
+      {
+        "hour": 4,
+        "minutes": 1,
+        "consumption": 5
+      },
+      {
+        "hour": 5,
+        "minutes": 40,
+        "consumption": 120
+      },
+      {
+        "hour": 6,
+        "minutes": 55,
+        "consumption": 422
+      },
+      {
+        "hour": 7,
+        "minutes": 60,
+        "consumption": 475
+      },
+      {
+        "hour": 8,
+        "minutes": 57,
+        "consumption": 474
+      },
+      {
+        "hour": 9,
+        "minutes": 60,
+        "consumption": 120
+      },
+      {
+        "hour": 10,
+        "minutes": 55,
+        "consumption": 360.3
+      },
+      {
+        "hour": 11,
+        "minutes": 40,
+        "consumption": 360.3
+      },
+      {
+        "hour": 12,
+        "minutes": 35,
+        "consumption": 360.3
+      },
+      {
+        "hour": 13,
+        "minutes": 50,
+        "consumption": 360.3
+      },
+      {
+        "hour": 14,
+        "minutes": 58,
+        "consumption": 360.3
+      },
+      {
+        "hour": 15,
+        "minutes": 60,
+        "consumption": 360.3
+      },
+      {
+        "hour": 16,
+        "minutes": 60,
+        "consumption": 360.3
+      },
+      {
+        "hour": 17,
+        "minutes": 60,
+        "consumption": 360.3
+      },
+      {
+        "hour": 18,
+        "minutes": 60,
+        "consumption": 120
+      },
+      {
+        "hour": 19,
+        "minutes": 60,
+        "consumption": 120
+      },
+      {
+        "hour": 20,
+        "minutes": 60,
+        "consumption": 120
+      },
+      {
+        "hour": 21,
+        "minutes": 60,
+        "consumption": 120
+      },
+      {
+        "hour": 22,
+        "minutes": 1,
+        "consumption": 5
+      },
+      {
+        "hour": 23,
+        "minutes": 2,
+        "consumption": 5
+      }
     ]
   }
 }
