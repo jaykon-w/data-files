@@ -527,6 +527,80 @@
         "consumption": 360.3
       }
     ],
+    "peakByMeter": [
+      {
+        "month": "January",
+        "meter1": 120,
+        "meter2": 85,
+        "meter3": 95
+      },
+      {
+        "month": "February",
+        "meter1": 110,
+        "meter2": 90,
+        "meter3": 100
+      },
+      {
+        "month": "March",
+        "meter1": 130,
+        "meter2": 92,
+        "meter3": 105
+      },
+      {
+        "month": "April",
+        "meter1": 125,
+        "meter2": 88,
+        "meter3": 98
+      },
+      {
+        "month": "May",
+        "meter1": 140,
+        "meter2": 95,
+        "meter3": 110
+      },
+      {
+        "month": "June",
+        "meter1": 135,
+        "meter2": 89,
+        "meter3": 102
+      },
+      {
+        "month": "July",
+        "meter1": 145,
+        "meter2": 96,
+        "meter3": 115
+      },
+      {
+        "month": "August",
+        "meter1": 138,
+        "meter2": 92,
+        "meter3": 108
+      },
+      {
+        "month": "September",
+        "meter1": 150,
+        "meter2": 97,
+        "meter3": 120
+      },
+      {
+        "month": "October",
+        "meter1": 142,
+        "meter2": 94,
+        "meter3": 113
+      },
+      {
+        "month": "November",
+        "meter1": 155,
+        "meter2": 99,
+        "meter3": 125
+      },
+      {
+        "month": "December",
+        "meter1": 148,
+        "meter2": 95,
+        "meter3": 118
+      }
+    ],
     "frequencyTopPeaks": [
       {
         "frequency": 0,
@@ -1565,9 +1639,435 @@
         "meanHourlyUsage": 320.83,
         "weekDay": "Tuesday"
       }
+    ],
+    "averageWeeklyUsageProfile": [
+      {
+        "hour": 0,
+        "weekday": 120,
+        "weekend": 80,
+        "stdev": [
+          40,
+          140
+        ]
+      },
+      {
+        "hour": 1,
+        "weekday": 100,
+        "weekend": 70,
+        "stdev": [
+          30,
+          120
+        ]
+      },
+      {
+        "hour": 2,
+        "weekday": 90,
+        "weekend": 65,
+        "stdev": [
+          20,
+          110
+        ]
+      },
+      {
+        "hour": 3,
+        "weekday": 85,
+        "weekend": 60,
+        "stdev": [
+          10,
+          100
+        ]
+      },
+      {
+        "hour": 4,
+        "weekday": 80,
+        "weekend": 55,
+        "stdev": [
+          5,
+          95
+        ]
+      },
+      {
+        "hour": 5,
+        "weekday": 95,
+        "weekend": 70,
+        "stdev": [
+          25,
+          105
+        ]
+      },
+      {
+        "hour": 6,
+        "weekday": 150,
+        "weekend": 100,
+        "stdev": [
+          70,
+          180
+        ]
+      },
+      {
+        "hour": 7,
+        "weekday": 200,
+        "weekend": 150,
+        "stdev": [
+          120,
+          240
+        ]
+      },
+      {
+        "hour": 8,
+        "weekday": 250,
+        "weekend": 200,
+        "stdev": [
+          170,
+          300
+        ]
+      },
+      {
+        "hour": 9,
+        "weekday": 300,
+        "weekend": 220,
+        "stdev": [
+          190,
+          350
+        ]
+      },
+      {
+        "hour": 10,
+        "weekday": 320,
+        "weekend": 240,
+        "stdev": [
+          210,
+          370
+        ]
+      },
+      {
+        "hour": 11,
+        "weekday": 350,
+        "weekend": 260,
+        "stdev": [
+          230,
+          400
+        ]
+      },
+      {
+        "hour": 12,
+        "weekday": 370,
+        "weekend": 280,
+        "stdev": [
+          240,
+          420
+        ]
+      },
+      {
+        "hour": 13,
+        "weekday": 360,
+        "weekend": 270,
+        "stdev": [
+          230,
+          410
+        ]
+      },
+      {
+        "hour": 14,
+        "weekday": 340,
+        "weekend": 260,
+        "stdev": [
+          220,
+          390
+        ]
+      },
+      {
+        "hour": 15,
+        "weekday": 330,
+        "weekend": 250,
+        "stdev": [
+          210,
+          380
+        ]
+      },
+      {
+        "hour": 16,
+        "weekday": 310,
+        "weekend": 240,
+        "stdev": [
+          200,
+          360
+        ]
+      },
+      {
+        "hour": 17,
+        "weekday": 290,
+        "weekend": 230,
+        "stdev": [
+          190,
+          340
+        ]
+      },
+      {
+        "hour": 18,
+        "weekday": 280,
+        "weekend": 220,
+        "stdev": [
+          180,
+          330
+        ]
+      },
+      {
+        "hour": 19,
+        "weekday": 270,
+        "weekend": 210,
+        "stdev": [
+          170,
+          320
+        ]
+      },
+      {
+        "hour": 20,
+        "weekday": 260,
+        "weekend": 200,
+        "stdev": [
+          160,
+          310
+        ]
+      },
+      {
+        "hour": 21,
+        "weekday": 240,
+        "weekend": 180,
+        "stdev": [
+          150,
+          290
+        ]
+      },
+      {
+        "hour": 22,
+        "weekday": 220,
+        "weekend": 160,
+        "stdev": [
+          130,
+          270
+        ]
+      },
+      {
+        "hour": 23,
+        "weekday": 200,
+        "weekend": 140,
+        "stdev": [
+          110,
+          250
+        ]
+      }
+    ],
+    "overnightEnergyUsage": [
+      {
+        "hour": 0,
+        "meanUsage": 158,
+        "sevenDayRollingMean": 65
+      },
+      {
+        "hour": 1,
+        "meanUsage": 98,
+        "sevenDayRollingMean": 76
+      },
+      {
+        "hour": 2,
+        "meanUsage": 37,
+        "sevenDayRollingMean": 45
+      },
+      {
+        "hour": 3,
+        "meanUsage": 76,
+        "sevenDayRollingMean": 65
+      },
+      {
+        "hour": 4,
+        "meanUsage": 158,
+        "sevenDayRollingMean": 87
+      },
+      {
+        "hour": 5,
+        "meanUsage": 98,
+        "sevenDayRollingMean": 68
+      },
+      {
+        "hour": 6,
+        "meanUsage": 37,
+        "sevenDayRollingMean": 86
+      },
+      {
+        "hour": 7,
+        "meanUsage": 76,
+        "sevenDayRollingMean": 57
+      },
+      {
+        "hour": 8,
+        "meanUsage": 158,
+        "sevenDayRollingMean": 80
+      },
+      {
+        "hour": 9,
+        "meanUsage": 98,
+        "sevenDayRollingMean": 87
+      },
+      {
+        "hour": 10,
+        "meanUsage": 37,
+        "sevenDayRollingMean": 76
+      },
+      {
+        "hour": 11,
+        "meanUsage": 76,
+        "sevenDayRollingMean": 80
+      },
+      {
+        "hour": 12,
+        "meanUsage": 158,
+        "sevenDayRollingMean": 46
+      },
+      {
+        "hour": 13,
+        "meanUsage": 98,
+        "sevenDayRollingMean": 56
+      },
+      {
+        "hour": 14,
+        "meanUsage": 37,
+        "sevenDayRollingMean": 87
+      },
+      {
+        "hour": 15,
+        "meanUsage": 76,
+        "sevenDayRollingMean": 60
+      },
+      {
+        "hour": 16,
+        "meanUsage": 158,
+        "sevenDayRollingMean": 80
+      },
+      {
+        "hour": 17,
+        "meanUsage": 98,
+        "sevenDayRollingMean": 70
+      },
+      {
+        "hour": 18,
+        "meanUsage": 37,
+        "sevenDayRollingMean": 80
+      },
+      {
+        "hour": 19,
+        "meanUsage": 76,
+        "sevenDayRollingMean": 52
+      },
+      {
+        "hour": 20,
+        "meanUsage": 158,
+        "sevenDayRollingMean": 84
+      },
+      {
+        "hour": 21,
+        "meanUsage": 98,
+        "sevenDayRollingMean": 80
+      },
+      {
+        "hour": 22,
+        "meanUsage": 37,
+        "sevenDayRollingMean": 83
+      },
+      {
+        "hour": 23,
+        "meanUsage": 76,
+        "sevenDayRollingMean": 80
+      }
     ]
   },
   "circuit": {
+    "usageByTimePeriods": [
+      {
+        "month": "January",
+        "midPeak": 9243,
+        "onPeak": 7452,
+        "offPeak": 5893,
+        "superOffPeak": 3987
+      },
+      {
+        "month": "February",
+        "midPeak": 8134,
+        "onPeak": 8923,
+        "offPeak": 4879,
+        "superOffPeak": 2037
+      },
+      {
+        "month": "March",
+        "midPeak": 7021,
+        "onPeak": 8237,
+        "offPeak": 5982,
+        "superOffPeak": 2726
+      },
+      {
+        "month": "April",
+        "midPeak": 6054,
+        "onPeak": 7389,
+        "offPeak": 8173,
+        "superOffPeak": 938
+      },
+      {
+        "month": "May",
+        "midPeak": 7543,
+        "onPeak": 5032,
+        "offPeak": 7021,
+        "superOffPeak": 4378
+      },
+      {
+        "month": "June",
+        "midPeak": 8467,
+        "onPeak": 7924,
+        "offPeak": 3251,
+        "superOffPeak": 3345
+      },
+      {
+        "month": "July",
+        "midPeak": 6128,
+        "onPeak": 8956,
+        "offPeak": 4234,
+        "superOffPeak": 4978
+      },
+      {
+        "month": "August",
+        "midPeak": 7289,
+        "onPeak": 6147,
+        "offPeak": 8023,
+        "superOffPeak": 2765
+      },
+      {
+        "month": "September",
+        "midPeak": 9056,
+        "onPeak": 6142,
+        "offPeak": 4967,
+        "superOffPeak": 3975
+      },
+      {
+        "month": "October",
+        "midPeak": 8182,
+        "onPeak": 7345,
+        "offPeak": 6103,
+        "superOffPeak": 4085
+      },
+      {
+        "month": "November",
+        "midPeak": 7524,
+        "onPeak": 8521,
+        "offPeak": 4312,
+        "superOffPeak": 2467
+      },
+      {
+        "month": "December",
+        "midPeak": 6589,
+        "onPeak": 7514,
+        "offPeak": 5587,
+        "superOffPeak": 4983
+      }
+    ],
     "averageCircuitProfile": [
       {
         "weekDay": "Mon",
@@ -1659,6 +2159,48 @@
         "circuit_8": 2.2,
         "circuit_9": 1.9,
         "circuit_10": 2.9
+      }
+    ],
+    "circuitCostTable": [
+      {
+        "circuit": "AC1",
+        "estimatedAnnualCost": 10588,
+        "estimatedDailyCost": 29.01,
+        "runtime": 13,
+        "costPerHour": 2.23,
+        "percentageAboveMinimum": 352
+      },
+      {
+        "circuit": "AC2",
+        "estimatedAnnualCost": 1441,
+        "estimatedDailyCost": 3.95,
+        "runtime": 8,
+        "costPerHour": 0.49,
+        "percentageAboveMinimum": "Minimum"
+      },
+      {
+        "circuit": "AC3",
+        "estimatedAnnualCost": 3546.84,
+        "estimatedDailyCost": 15.2,
+        "runtime": 9,
+        "costPerHour": 2.99,
+        "percentageAboveMinimum": 64.6
+      },
+      {
+        "circuit": "AC4",
+        "estimatedAnnualCost": 2564.6,
+        "estimatedDailyCost": 44.68,
+        "runtime": null,
+        "costPerHour": null,
+        "percentageAboveMinimum": null
+      },
+      {
+        "circuit": "Painel HA",
+        "estimatedAnnualCost": 4971.02,
+        "estimatedDailyCost": 40.22,
+        "runtime": null,
+        "costPerHour": null,
+        "percentageAboveMinimum": null
       }
     ],
     "highLowConsumption": [
@@ -1890,6 +2432,200 @@
         "hour": 23,
         "minutes": 2,
         "consumption": 5
+      }
+    ],
+    "hourlyAverages": [
+      {
+        "hour": 0,
+        "usage": 102,
+        "stdev": [
+          72,
+          132
+        ]
+      },
+      {
+        "hour": 1,
+        "usage": 76,
+        "stdev": [
+          46,
+          106
+        ]
+      },
+      {
+        "hour": 2,
+        "usage": 87,
+        "stdev": [
+          57,
+          117
+        ]
+      },
+      {
+        "hour": 3,
+        "usage": 76,
+        "stdev": [
+          46,
+          106
+        ]
+      },
+      {
+        "hour": 4,
+        "usage": 98,
+        "stdev": [
+          68,
+          128
+        ]
+      },
+      {
+        "hour": 5,
+        "usage": 59,
+        "stdev": [
+          29,
+          89
+        ]
+      },
+      {
+        "hour": 6,
+        "usage": 102,
+        "stdev": [
+          72,
+          132
+        ]
+      },
+      {
+        "hour": 7,
+        "usage": 74,
+        "stdev": [
+          44,
+          104
+        ]
+      },
+      {
+        "hour": 8,
+        "usage": 102,
+        "stdev": [
+          72,
+          132
+        ]
+      },
+      {
+        "hour": 9,
+        "usage": 102,
+        "stdev": [
+          72,
+          132
+        ]
+      },
+      {
+        "hour": 10,
+        "usage": 102,
+        "stdev": [
+          72,
+          132
+        ]
+      },
+      {
+        "hour": 11,
+        "usage": 58,
+        "stdev": [
+          28,
+          88
+        ]
+      },
+      {
+        "hour": 12,
+        "usage": 86,
+        "stdev": [
+          56,
+          126
+        ]
+      },
+      {
+        "hour": 13,
+        "usage": 84,
+        "stdev": [
+          54,
+          114
+        ]
+      },
+      {
+        "hour": 14,
+        "usage": 98,
+        "stdev": [
+          68,
+          138
+        ]
+      },
+      {
+        "hour": 15,
+        "usage": 102,
+        "stdev": [
+          72,
+          132
+        ]
+      },
+      {
+        "hour": 16,
+        "usage": 102,
+        "stdev": [
+          72,
+          132
+        ]
+      },
+      {
+        "hour": 17,
+        "usage": 67,
+        "stdev": [
+          37,
+          97
+        ]
+      },
+      {
+        "hour": 18,
+        "usage": 102,
+        "stdev": [
+          72,
+          132
+        ]
+      },
+      {
+        "hour": 19,
+        "usage": 77,
+        "stdev": [
+          47,
+          107
+        ]
+      },
+      {
+        "hour": 20,
+        "usage": 102,
+        "stdev": [
+          72,
+          132
+        ]
+      },
+      {
+        "hour": 21,
+        "usage": 76,
+        "stdev": [
+          46,
+          106
+        ]
+      },
+      {
+        "hour": 22,
+        "usage": 65,
+        "stdev": [
+          35,
+          95
+        ]
+      },
+      {
+        "hour": 23,
+        "usage": 37,
+        "stdev": [
+          7,
+          67
+        ]
       }
     ]
   }
